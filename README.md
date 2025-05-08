@@ -1,4 +1,4 @@
-## Hello👋, I'm Khosnur Alam Shuchi 👧!
+## Hello👋, I'm Khosnur 👧!
 
 
 

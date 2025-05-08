@@ -7,5 +7,5 @@
 
 📫 How to reach me askhosnur100@gmail.com
 
-💡I believe in clean code, strong coffee and sarcastic commit messages.
+
 

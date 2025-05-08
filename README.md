@@ -1,4 +1,5 @@
-## Hello👋, I'm Khosnur Alam Shuchi!
+## Hello👋, I'm Khosnur Alam Shuchi 👧!
+
 
 
 💻 I’m currently working on a project that sounded easier in my head.

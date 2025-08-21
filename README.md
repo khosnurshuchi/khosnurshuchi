@@ -1,4 +1,4 @@
-## Hello👋, I'm Khosnur🧘‍♀💁‍♀️!
+## Hello👋, I'm Khosnur👧!
 
 
 

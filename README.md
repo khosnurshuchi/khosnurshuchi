@@ -24,7 +24,6 @@ Hi, I'm **Khosnur**, a Computer Science graduate from **BRAC University** in Dha
 
 - 🎓 BSc in Computer Science, BRAC University
 - 👩‍🏫 Coding instructor at **Dreamers Academy**, teaching school kids from block coding to text-based programming
-- 📚 Independent tutor for science, maths and programming (5-star rating on CareTutors ⭐)
 - 📊 Completed the **Ostad Data Analytics Job Ready Program** with 100% in the final assessment
 - 🌳 Ask me about DSA (and yes, I do cry over trees and graphs sometimes)
 
@@ -68,9 +67,9 @@ Hi, I'm **Khosnur**, a Computer Science graduate from **BRAC University** in Dha
 
 | Project | What it is | Link |
 |---|---|---|
-| 🍔 **Food Delivery EDA** | Exploring online food orders, delivery problems and restaurant ratings with Python | [GitHub](https://github.com/khosnurshuchi/food-delivery-eda) |
-| 🎮 **3D Space Shooter** | A game in C++ and OpenGL with collision detection and game physics | [GitHub](https://github.com/khosnurshuchi/3D-Space-Shooter_CSE423) |
 | 🎓 **BRAC Research Server** | A web platform that makes thesis management easier | [GitHub](https://github.com/khosnurshuchi/BRACU-Research-server) |
+| 🎮 **3D Space Shooter** | A game in C++ and OpenGL with collision detection and game physics | [GitHub](https://github.com/khosnurshuchi/3D-Space-Shooter_CSE423) |
+| 🍔 **Food Delivery EDA** | Exploring online food orders, delivery problems and restaurant ratings with Python | [GitHub](https://github.com/khosnurshuchi/food-delivery-eda) |
 | 📝 **Yahoo Answers Topic Classification** | Classic ML vs deep learning for multi-class text classification | [GitHub](https://github.com/khosnurshuchi/Yahoo-Answers-Topic-Classification) |
 | 🐱 **Scratch & ScratchJr projects** | Games, stories and a maze made to teach beginners | |
 

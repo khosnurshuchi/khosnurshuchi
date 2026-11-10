@@ -25,7 +25,6 @@ Hi, I'm **Khosnur**, a Computer Science graduate from **BRAC University** in Dha
 - 🎓 BSc in Computer Science, BRAC University
 - 👩‍🏫 Coding instructor at **Dreamers Academy**, teaching school kids from block coding to text-based programming
 - 🔬 Research on deep learning for leukemia detection from blood smear images (**LeukoNet**)
-- 📊 Completed the **Ostad Data Analytics Job Ready Program** with 100% in the final assessment
 - 🌳 Ask me about DSA (and yes, I do cry over trees and graphs sometimes)
 
 > *Teaching is the best way to find out if you really understand something.*

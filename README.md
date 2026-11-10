@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=200&section=header&text=Khosnur%20Alam%20Shuchi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=she%2Fher%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=16&descAlignY=60" alt="header">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=9D7AE6&center=true&vCenter=true&width=520&lines=Believe+in+clean+code%2C+strong+coffee;and+sarcastic+commit+texts+%E2%98%95;CS+graduate+%C2%B7+Coding+teacher+%C2%B7+Data+explorer" alt="typing tagline">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=9D7AE6&center=true&vCenter=true&width=720&lines=Believe+in+clean+code%2C+strong+coffee;and+sarcastic+commit+texts+%E2%98%95;CS+graduate+%C2%B7+Coding+instructor+%C2%B7+Data+explorer" alt="typing tagline">
 
 <br><br>
 
@@ -24,6 +24,7 @@ Hi, I'm **Khosnur**, a Computer Science graduate from **BRAC University** in Dha
 
 - 🎓 BSc in Computer Science, BRAC University
 - 👩‍🏫 Coding instructor at **Dreamers Academy**, teaching school kids from block coding to text-based programming
+- 🔬 Research on deep learning for leukemia detection from blood smear images (**LeukoNet**)
 - 📊 Completed the **Ostad Data Analytics Job Ready Program** with 100% in the final assessment
 - 🌳 Ask me about DSA (and yes, I do cry over trees and graphs sometimes)
 
@@ -46,6 +47,15 @@ Hi, I'm **Khosnur**, a Computer Science graduate from **BRAC University** in Dha
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
+
+**AI & machine learning**
+
+<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C5CBF?style=for-the-badge" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Computer%20Vision-9D7AE6?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/NLP-C3A6F4?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/Explainable%20AI-4B3480?style=for-the-badge" alt="Explainable AI">
 </p>
 
 **Graphics & teaching tools**
@@ -72,6 +82,20 @@ Hi, I'm **Khosnur**, a Computer Science graduate from **BRAC University** in Dha
 | 🍔 **Food Delivery EDA** | Exploring online food orders, delivery problems and restaurant ratings with Python | [GitHub](https://github.com/khosnurshuchi/food-delivery-eda) |
 | 📝 **Yahoo Answers Topic Classification** | Classic ML vs deep learning for multi-class text classification | [GitHub](https://github.com/khosnurshuchi/Yahoo-Answers-Topic-Classification) |
 | 🐱 **Scratch & ScratchJr projects** | Games, stories and a maze made to teach beginners | |
+
+---
+
+## 🔬 Research
+
+### LeukoNet: Deep Learning-Based Leukemia Detection from Peripheral Blood Smear Images
+
+My undergraduate thesis at BRAC University, written with Ateef Saklain, Mahabuba Afrose, Nusrat Zaman Nusa and Niloy Farhan.
+
+- 🩸 Built a new hospital dataset from **Ibn Sina Hospital & Diagnostic Center, Jashore**: 1,102 microscopic fields, each at three magnification levels (3,306 images)
+- 🧪 Used a **field-grouped data split**, so different views of the same field never end up in both training and test data
+- 🤖 Fine-tuned four models (DenseNet121, EfficientNetB0, ResNet50, ViT-B/16) and trained a compact network from scratch (LeukoNet-S)
+- 🏆 Fine-tuned models reached **94.4% to 96.4%** test accuracy, and an ensemble of the four reached **97.19%**
+- 🔍 Used **Grad-CAM** to show that the models focus on abnormal cell clusters
 
 ---
 
